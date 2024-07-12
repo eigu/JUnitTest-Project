@@ -2,8 +2,8 @@ package com.example.shoppingcart.test;
 
 import com.example.shoppingcart.Product;
 import com.example.shoppingcart.ShoppingCart;
-import org.junit.*;
 
+import org.junit.*;
 import static org.junit.Assert.*;
 
 public class ShoppingCartTest {
